@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bookworm - Bookstore Management (Frontend)
 
 Open `index.html` in any browser. No install or server needed.
@@ -17,3 +18,6 @@ Library (add/remove books), Community, AI Integration (keyword recommender), Set
 
 ## Next steps
 Replace the generated chapter text (gen() in js/app.js) with real content from a backend/database.
+=======
+# bookworm
+>>>>>>> f5b4f9612628000ba74c9d37d4c67cfc6bddc0cb
